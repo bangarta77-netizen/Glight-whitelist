@@ -1,0 +1,2 @@
+# Glight-whitelist
+Whitelist
